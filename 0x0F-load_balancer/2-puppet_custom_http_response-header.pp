@@ -23,19 +23,3 @@ exec { 'restart Nginx':
   provider => shell,
   command  => 'sudo service nginx restart',
 }
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-
-    Terms
-    Privacy
-    Security
-    Status
-    Docs
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
-
